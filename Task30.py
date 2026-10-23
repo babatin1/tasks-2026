@@ -14,4 +14,4 @@ elif operation == "/":
     else:
         print(a / b)
 else:
-    print("ОШИБКf")
+    print("ОШИБКА")
