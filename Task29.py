@@ -2,4 +2,4 @@ a = int(input())
 b = int(input())
 
 print(a // b)
-print(a % c)
+print(a % b)
