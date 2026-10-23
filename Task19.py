@@ -4,4 +4,4 @@ email = input()
 if "@" in email and "@" not in login:
     print("OK")
 else:
-    print("ОШИБК")
+    print("ОШИБКА")
