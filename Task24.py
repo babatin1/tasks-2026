@@ -5,4 +5,4 @@ if num > 0:
 elif num < 0:
     print("-")
 else:
-    print("2")
+    print("0")
