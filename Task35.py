@@ -6,4 +6,4 @@ if len(password) < 8:
 elif password != repeat_password:
     print("Пароли не совпадают!")
 else:
-    print("OK")2
+    print("OK")
