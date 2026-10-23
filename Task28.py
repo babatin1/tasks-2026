@@ -1,3 +1,3 @@
 num = float(input())
 
-print(abs(nu))
+print(abs(num))
