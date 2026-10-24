@@ -26,4 +26,4 @@ else:
     for item in first_list:
         if item in common:
             print(item, end=" ")
-            common.remove(item) # Удаляем, чтобы не вывести дубликат (если он был в первом списке) d d
+            common.remove(item) # Удаляем, чтобы не вывести дубликат (если он был в первом списке) 
