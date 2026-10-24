@@ -10,4 +10,4 @@ new_city = input()
 if new_city in cities:
     print("TRY ANOTHER")
 else:
-    print("OK") d 
+    print("OK") 
