@@ -4,4 +4,4 @@ word2 = input()
 if word1[-1] == word2[0]:
     print("ВЕРНО")
 else:
-    print("НЕВЕРНО") dd 
+    print("НЕВЕРНО") 
